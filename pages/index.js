@@ -6,8 +6,4 @@ function teste() {
   console.log("teste1");
 }
 
-function teste() {
-  console.log("teste1");
-}
-
 export default Home;
